@@ -36,3 +36,5 @@ while run:
     win.fill((0, 0, 0))
     pg.draw.rect(win, (255, 0, 0), (x, y, width, height))
     pg.display.update()
+
+pg.quit()
